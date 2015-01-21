@@ -1,0 +1,91 @@
+@charset "UTF-8";
+body {
+	background-color:#333333;
+}
+
+#loginheader {
+	font-weight: 400;
+	font-size: 50px;
+	font-style: normal;
+	font-family: font-family: 'Nova Oval', cursive;
+	text-align: center;
+	color: #ffd500;
+	background-color: #333333;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+#loginform {
+	top: 0%;
+	bottom: 0%;
+	margin-top: 10%;
+	color: #ffd500;
+	text-align: center;
+	margin-left: -25px;
+}
+#loginform form p #password {
+	padding-top: 3px;
+	padding-right: 3px;
+	padding-bottom: 3px;
+	padding-left: 3px;
+	border-radius: 5px;
+}
+#loginform form p #textfield {
+	padding-top: 3px;
+	padding-right: 3px;
+	padding-bottom: 3px;
+	padding-left: 3px;
+	border-radius: 5px;
+}
+#loginform form p #button {
+	border: 0;
+	background: #ffd500;
+	color: white;
+	padding: 10px;
+	font-size: 14px;
+	border-radius: 5px;
+	margin-left: 25px;
+	margin-top: 25px;
+}
+
+#paragraph1 p {
+	font-family: advent-pro;
+	font-style: normal;
+	font-weight: 100;
+	color: #FFF;
+	text-align: center;
+	font-size: 16px;
+}
+#back {
+	width: 40px;
+	height: 18px;
+	text-align: center;
+	background-color: #ffd500;
+	border-radius: 3px;
+	padding-top: 0px;
+	padding-right: 10px;
+	padding-bottom: 0px;
+	padding-left: 10px;
+	display: block;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+a{
+    text-decoration:none;
+}
+
+a{
+    color:#ffd500;
+}
+#back a{
+    text-decoration:none;
+    color: #333333;
+}
+#paragraph2 {
+	text-align: left;
+	font-family: advent-pro;
+	font-style: normal;
+	font-weight: 100;
+	color: #FFFFFF;
+}
+#paragraph2 #questions {
+	font-color: #ffd500;
+	color: #ffd500;
+}

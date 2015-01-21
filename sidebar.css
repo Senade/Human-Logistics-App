@@ -1,0 +1,154 @@
+@charset "UTF-8";
+
+
+#sidebarde {
+	background-color: #FFFFFF;
+	position: fixed;
+	visibility: visible;
+	height: 670px;
+	width: 60px;
+	list-style-image: none;
+	list-style-type: none;
+	list-style: none;
+	text-align: center;
+	margin-left: -38px;
+	margin-top: 100px;
+	float: left;
+	top: 0px;
+	border-radius: 0px 0px 7px 7px;
+	border-right-color: #000000;
+	border-spacing: 0px 5px;
+}
+
+li ul {
+	
+}
+
+ul li a {
+	display:block;
+	height:auto;
+	line-height:auto;
+}
+#headerdeliv {
+	position: relative;
+	border-radius: 0px;
+	background-color: #ffd500;
+	font-family: advent-pro;
+	font-style: normal;
+	font-weight: 400;
+	font-size: xx-large;
+	text-align: center;
+	color: #FFFFFF;
+}
+#formtravell {
+	margin-left: 0px;
+	width: 340px;
+	border-left-color: #FFFFFF;
+}
+#formdelivery #form1 #submit p #submit {
+	border:0;
+    background: #3C6;
+    color: white;
+    padding: 10px;
+      font-size:16px;
+}
+#reset {
+	border:0;
+    background: #d2d2d3;
+    color: white;
+    padding: 10px;
+      font-size:16px;
+}
+#textfield {
+	border-radius: 5px;
+	padding-top: 3px;
+	padding-right: 3px;
+	padding-bottom: 3px;
+	padding-left: 3px;
+}
+#textfield2 {
+	border-radius: 5px;
+	padding-top: 3px;
+	padding-right: 3px;
+	padding-bottom: 3px;
+	padding-left: 3px;
+}
+#date {
+	border-radius: 5px;
+	padding-top: 3px;
+	padding-right: 3px;
+	padding-bottom: 3px;
+	padding-left: 3px;
+}
+#sidebarde li img {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+#sidebarde li a img {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+#formdelivery #form1 #text1 p #date2 {
+	border-radius: 5px;
+}
+#formdelivery #form1 #text1 p #date3 {
+	border-radius: 5px;
+}
+#formdelivery #form1 p #textfield3 {
+	padding-top: 3px;
+	padding-right: 3px;
+	padding-bottom: 3px;
+	padding-left: 3px;
+	border-radius: 5px;
+	width: 250px;
+	height: 90px;
+}
+#formdelivery #form1 p #time {
+	border-radius: 5px;
+	padding-top: 3px;
+	padding-right: 3px;
+	padding-bottom: 3px;
+	padding-left: 3px;
+}
+
+body figure img {
+	margin-left: 50%;
+	margin-top: 60px;
+	-webkit-box-shadow: 0px 0px;
+	box-shadow: 0px 0px;
+	text-shadow: 0px 0px;
+}
+
+body figure figcaption p {
+	margin-left: 0%;
+	text-align: center;
+	font-style: normal;
+	font-weight: 400;
+	font-family: advent-pro;
+}
+body figure figcaption {
+	margin-left: 5%;
+	text-align: center;
+	font-style: normal;
+	font-weight: 400;
+	font-family: advent-pro;
+}
+
+#h3 {
+	margin-left: 78px;
+	font-style: normal;
+	font-weight: 400;
+	font-family: advent-pro;
+	background-color: #d2d2d3;
+	width: 310px;
+	color: #FFFFFF;
+	/* [disabled]top: 0px; */
+	/* [disabled]bottom: 20px; */
+	/* [disabled]left: 10px; */
+	margin-right: 10px;
+	text-align: center;
+	padding-top: 1px;
+	padding-right: 1px;
+	padding-bottom: 1px;
+	padding-left: 1px;
+}

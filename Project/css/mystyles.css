@@ -1,0 +1,68 @@
+@import url("../webfonts/Franchise_Bold_hinted/stylesheet.css");
+#login div h2 {
+	color: #ffd500;
+	font-family: "Franchise Bold hinted";
+	font-weight: normal;
+	font-size: 75px;
+}
+
+#aboutus content {
+	font-family:advent-pro;
+	text-align:center;
+}
+#aboutus div p {
+	font-style: normal;
+	font-weight: 400;
+	font-family: advent-pro;
+	text-align: center;
+}
+#faq div div h3 {
+	color: #ffd500;
+	font-style: normal;
+	font-weight: 400;
+	font-family: advent-pro;
+}
+#faq div div p {
+	font-style: normal;
+	font-weight: 400;
+	font-family: advent-pro;
+}
+#carry div {
+	font-style: normal;
+	font-weight: 400;
+	font-family: advent-pro;
+}
+#request div {
+	font-style: normal;
+	font-weight: 400;
+	font-family: advent-pro;
+}
+#thankyou div {
+	font-style: normal;
+	font-weight: 400;
+	font-family: advent-pro;
+}
+#aboutus div {
+	font-style: normal;
+	font-weight: 400;
+	font-family: advent-pro;
+}
+#faq div{
+	font-style: normal;
+	font-weight: 400;
+	font-family: advent-pro;
+}
+#home div {
+	font-style: normal;
+	font-weight: 400;
+	font-family: advent-pro;
+}
+#info div {
+	font-style: normal;
+	font-weight: 400;
+	font-family: advent-pro;
+}
+
+#home {
+	text-align:center;
+}

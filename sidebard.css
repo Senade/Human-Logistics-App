@@ -1,0 +1,11 @@
+@charset "UTF-8";
+li ul {
+	list-style:none;
+	text-align:center;
+}
+
+ul li a {
+	display:block;
+	height:20px;
+	line-height:20px;
+}
